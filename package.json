@@ -1,6 +1,8 @@
 {
-  "name": "package-test",
+  "name": "@Threshold-360/package-test",
   "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/Threshold-360/package-test.git",
   "dependencies": {
   }
 }
