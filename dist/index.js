@@ -1,1 +1,3 @@
-console.log('Hello from a package');
+module.exports = () => {
+    console.log('Hello from a package');
+}
