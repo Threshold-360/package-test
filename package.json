@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "repository": {
-    "url": "git://github.com/threshold-360/package-test.git"
+    "url": "https://github.com/Threshold-360/package-test.git"
   },
   "dependencies": {
   }
